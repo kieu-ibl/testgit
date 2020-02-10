@@ -785,6 +785,12 @@ a.btn-back{
 .page-template-archive-thanks #menu_plu{
   display: none;
 }
+.ex-git{
+  display: none;
+}
+.git{
+  font-size: 30px;
+}
 @media screen and (max-width: 1200px){
   .cen-fea {
     margin: 30px 0 45px;
